@@ -36,7 +36,7 @@ Si eres el organizador de un grupo y tienes un calendario oficial del grupo en l
 
 Pull requests son más que bienvenidas.
 
-Si quieres ser miembro de la organización o administrar directamente los calendarios, contacta conmigo `@Daniel-at-github`
+Si quieres ser miembro de la organización o administrar directamente los calendarios, contacta conmigo @Daniel-at-github
 
 # Como se hizo
 
@@ -65,6 +65,7 @@ Los pasos seguidos fueron:
     - En `Incrustar este calendario` → `Personaliza el color, el tamaño y otras opciones`
     - En `Calendarios para mostrar` escoger todos
     - `Título del calendario` Floss Galicia
+    - `La semana empieza el` Lunes
     - Copiar el iframe html generado
 
   - Pegar el iframe en el fichero `docs/index.html` entre los comentarios:
