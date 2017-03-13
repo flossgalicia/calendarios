@@ -4,6 +4,8 @@ Agregación de calendarios de eventos FLOSS (Free Libre Open Source Software) de
 
 # Contenido
 
+https://flossgalicia.github.io/calendarios/
+
 Actualmente están enlazados en el google calendar de `flossgalicia` los siguientes calendarios:
 
 Grupo                | Calendario
