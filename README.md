@@ -4,7 +4,7 @@ Agregación de calendarios de eventos FLOSS (Free Libre Open Source Software) de
 
 # Contenido
 
-<https://flossgalicia.github.io/calendarios/>
+[![Calendario](Nuvola_apps_date.svg)](https://flossgalicia.github.io/calendarios/) <https://flossgalicia.github.io/calendarios/>
 
 Actualmente están enlazados en el google calendar de `flossgalicia` los siguientes calendarios:
 
@@ -66,17 +66,22 @@ Los pasos seguidos fueron:
 
     - En cualquier calendario entrar en `Configuración del calendario`
     - En `Incrustar este calendario` → `Personaliza el color, el tamaño y otras opciones`
-    - En `Calendarios para mostrar` escoger todos
+    - En `Calendarios para mostrar` escoger el calendario a añadir
     - `Título del calendario` Floss Galicia
     - `La semana empieza el` Lunes
     - Copiar el iframe html generado
 
-  - Pegar el iframe en el fichero `docs/index.html` entre los comentarios:
+  - Escoger la parte del enlace y el color y añadir una nueva entrada en el fichero `docs/calendars.json`. Ej:
 
-    ```
-    <!-- Inicio de calendario -->
-    ...
-    <!-- Fin de calendario -->
+    ```json
+    {
+      "src": "g6mo7c6s7vv5g4r0ni0s2ranogltmam6%40import.calendar.google.com",
+      "color": "23711616"
+    },
     ```
 
   - Subir los cambios al repositorio
+
+# Contenidos de terceros
+
+- [Imagen de calendario](https://commons.wikimedia.org/wiki/Calendar#/media/File:Nuvola_apps_date.svg)
