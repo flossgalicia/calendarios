@@ -8,17 +8,18 @@ Agregación de calendarios de eventos FLOSS (Free Libre Open Source Software) de
 
 Actualmente están enlazados en el google calendar de `flossgalicia` los siguientes calendarios:
 
-Grupo                | Calendario
--------------------- | ------------------------------------------------------------------------------
-**AgileVigo**        | webcal://www.meetup.com/es-ES/agile-vigo/events/ical/
-**Codesign Project** | webcal://www.meetup.com/es-ES/codesign-project/events/ical/
-**GDG Vigo**         | webcal://www.meetup.com/es-ES/GDGVigo/events/ical/
-**JavaScript Vigo**  | webcal://www.meetup.com/es-ES/JavaScriptVigo/events/ical/
-**Joomla Vigo**      | webcal://www.meetup.com/es-ES/Grupo-de-Usuarios-de-Joomla-de-Vigo/events/ical/
-**PHP Vigo**         | webcal://www.meetup.com/es-ES/PHPVigo/events/ical/
-**Sysadmin@Galicia** | webcal://www.meetup.com/es-ES/Sysadmin-Galicia/events/ical/
-**Vigo JUG**         | webcal://www.meetup.com/es-ES/Vigo-JUG/events/ical/
-**Vigo Labs**        | webcal://www.meetup.com/es-ES/Vigo-Labs/events/ical/
+Grupo                 | Calendario
+--------------------- | ------------------------------------------------------------------------------
+**AgileVigo**         | webcal://www.meetup.com/es-ES/agile-vigo/events/ical/
+**Codesign Project**  | webcal://www.meetup.com/es-ES/codesign-project/events/ical/
+**GDG Vigo**          | webcal://www.meetup.com/es-ES/GDGVigo/events/ical/
+**JavaScript Vigo**   | webcal://www.meetup.com/es-ES/JavaScriptVigo/events/ical/
+**Joomla Vigo**       | webcal://www.meetup.com/es-ES/Grupo-de-Usuarios-de-Joomla-de-Vigo/events/ical/
+**PHP Vigo**          | webcal://www.meetup.com/es-ES/PHPVigo/events/ical/
+**Sysadmin@Galicia**  | webcal://www.meetup.com/es-ES/Sysadmin-Galicia/events/ical/
+**Vigo JUG**          | webcal://www.meetup.com/es-ES/Vigo-JUG/events/ical/
+**Vigo Labs**         | webcal://www.meetup.com/es-ES/Vigo-Labs/events/ical/
+**Betabeers Galicia** | <https://betabeers.com/event/ical/?hashtag=bbgal>
 
 No se han encontrado calendarios en formato ical, y se han añadido manualmente, de los siguientes grupos:
 
