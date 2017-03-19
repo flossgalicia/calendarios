@@ -40,7 +40,7 @@ Si eres el organizador de un grupo y tienes un calendario oficial del grupo en l
 
 Pull requests son más que bienvenidas.
 
-Si quieres ser miembro de la organización o administrar directamente los calendarios, contacta conmigo @Daniel-at-github
+Si quieres ser miembro de la organización o administrar directamente los calendarios, contacta conmigo [Daniel-at-github](https://github.com/Daniel-at-github)
 
 # Como se hizo
 
