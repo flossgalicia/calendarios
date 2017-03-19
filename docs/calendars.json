@@ -41,7 +41,52 @@
   },
   {
     "nombre": "Betabeers Galicia",
-    "src": "0333dvkhul9avlnjk0672a91e7hapfku@import.calendar.google.com",
+    "src": "0333dvkhul9avlnjk0672a91e7hapfku%40import.calendar.google.com",
     "color": "238D6F47"
+  },
+  {
+    "nombre": "Pontevedra WordPress",
+    "src": "8e2uo7681mka4imqv2olejgvvg77tk10%40import.calendar.google.com",
+    "color": "232952A3"
+  },
+  {
+    "nombre": "Rails Girls Galicia",
+    "src": "590e57nih9si24ldmbte5uiep4fu4ho8%40import.calendar.google.com",
+    "color": "2342104A"
+  },
+  {
+    "nombre": "WordPress Vigo",
+    "src": "6sjokvnohafpm5icto1c3onqhfjrm1n3%40import.calendar.google.com",
+    "color": "23333333"
+  },
+  {
+    "nombre": "GDG Ourense",
+    "src": "k3jggkeab2vabgm48omat59q35v4rrm5%40import.calendar.google.com",
+    "color": "232F6309"
+  },
+  {
+    "nombre": "GDG Santiago",
+    "src": "j821v6cjhue0nebua807l9auaidun63e%40import.calendar.google.com",
+    "color": "2323164E"
+  },
+  {
+    "nombre": "XantarDev (Santiago)",
+    "src": "aea9i9bkdapchl8hdeo51m6jokcbhapt%40import.calendar.google.com",
+    "color": "23853104"
+  },
+  {
+    "nombre": "Docker Galicia",
+    "src": "tjosibf7gn1r4f4uuspm0peo35rb3ddu%40import.calendar.google.com",
+    "color": "23853104"
+  },
+  {
+    "nombre": "Virtual Reality Santiago",
+    "src": "bhmbkfrd2ebnjbkkdq9of1ass2qk347f%40import.calendar.google.com",
+    "color": "23875509"
+  },
+  {
+    "nombre": "JavaScript Galicia (Ourense)",
+    "src": "hd67ci28fpumdd1t59gig2jde0q85e87%40import.calendar.google.com",
+    "color": "23865A5A"
   }
 ]

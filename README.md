@@ -20,6 +20,15 @@ Grupo                 | Calendario
 **Vigo JUG**          | webcal://www.meetup.com/es-ES/Vigo-JUG/events/ical/
 **Vigo Labs**         | webcal://www.meetup.com/es-ES/Vigo-Labs/events/ical/
 **Betabeers Galicia** | <https://betabeers.com/event/ical/?hashtag=bbgal>
+**Pontevedra WordPress**         | webcal://www.meetup.com/es-ES/Pontevedra-WordPress-Meetup/events/ical/
+**Rails Girls Galicia**          | webcal://www.meetup.com/es-ES/railsgirlsGAL/events/ical/
+**WordPress Vigo**               | webcal://www.meetup.com/es-ES/Meetup-de-WordPress-en-Vigo/events/ical/
+**GDG Ourense**                  | webcal://www.meetup.com/es-ES/gdgourense/events/ical/
+**GDG Santiago**                 | webcal://www.meetup.com/es-ES/gdgsantiagoes/events/ical/
+**XantarDev (Santiago)**         | webcal://www.meetup.com/es-ES/XantarDev/events/ical/
+**Docker Galicia**               | webcal://www.meetup.com/es-ES/Docker-Galicia/events/ical/
+**Virtual Reality Santiago**     | webcal://www.meetup.com/es-ES/Virtual-Reality-Santiago/events/ical/
+**JavaScript Galicia (Ourense)** | webcal://www.meetup.com/es-ES/JavaScriptGalicia/events/ical/
 
 No se han encontrado calendarios en formato ical, y se han añadido manualmente, de los siguientes grupos:
 
