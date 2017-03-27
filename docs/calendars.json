@@ -88,5 +88,12 @@
     "nombre": "JavaScript Galicia (Ourense)",
     "src": "hd67ci28fpumdd1t59gig2jde0q85e87%40import.calendar.google.com",
     "color": "23865A5A"
+  },
+  {
+    "nombre": "Desarrollo Web Ourense",
+    "src": "2ncusq0t89hemt873di9vhroajuq2nk1@import.calendar.google.com",
+    "color": "23333333",
+    "localidad": "Ourense",
+    "ical": "webcal://www.meetup.com/es-ES/DesarrolloWebOurense/events/ical/"
   }
 ]
