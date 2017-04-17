@@ -91,9 +91,16 @@
   },
   {
     "nombre": "Desarrollo Web Ourense",
-    "src": "2ncusq0t89hemt873di9vhroajuq2nk1@import.calendar.google.com",
+    "src": "2ncusq0t89hemt873di9vhroajuq2nk1%40import.calendar.google.com",
     "color": "23333333",
     "localidad": "Ourense",
     "ical": "webcal://www.meetup.com/es-ES/DesarrolloWebOurense/events/ical/"
+  },
+  {
+    "nombre": "SEO Galicia",
+    "src": "a8daj5okd98a7uai6m963qsrbekuv2ki%40import.calendar.google.com",
+    "color": "236B3304",
+    "localidad": "Santiago",
+    "ical": "webcal://www.meetup.com/es-ES/SEO-Galicia/events/ical/"
   }
 ]
